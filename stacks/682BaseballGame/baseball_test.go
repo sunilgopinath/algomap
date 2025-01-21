@@ -3,7 +3,7 @@ package baseballgame_test
 import (
 	"testing"
 
-	baseballgame "github.com/sunilgopinath/algomap/682BaseballGame"
+	baseballgame "github.com/sunilgopinath/algomap/stacks/682BaseballGame"
 )
 
 

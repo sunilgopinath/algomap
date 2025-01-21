@@ -3,7 +3,7 @@ package parenthesis_test
 import (
 	"testing"
 
-	parenthesis "github.com/sunilgopinath/algomap/20Parenthesis"
+	parenthesis "github.com/sunilgopinath/algomap/stacks/20Parenthesis"
 )
 
 
