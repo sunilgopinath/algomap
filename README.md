@@ -3,16 +3,17 @@ Doing algomap.io's 100 leetcode questions
 
 ## Answered
 
-1. 2239 https://leetcode.com/problems/find-closest-number-to-zero/
-2. 1768 https://leetcode.com/problems/merge-strings-alternately/description/
-3. 13 https://leetcode.com/problems/roman-to-integer/
-4. 392 https://leetcode.com/problems/is-subsequence/description/
-5. 682 https://leetcode.com/problems/baseball-game/
-6. 20 https://leetcode.com/problems/valid-parentheses/
-7. 150 https://leetcode.com/problems/evaluate-reverse-polish-notation/
-8. 121 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
-9. 14 https://leetcode.com/problems/longest-common-prefix/
-10. 228 https://leetcode.com/problems/summary-ranges/
+1. [2239](./arraysStrings/2239ClosestNumber/)
+2. [1768](./arraysStrings/1768MergeAlternatively/)
+3. [13](./arraysStrings/13RomanToInt/)
+4. [392](./arraysStrings/392IsSubsequence/)
+5. [682](./stacks/682BaseballGame/)
+6. [20](./stacks/20ValidParentheses/)
+7. [150](./stacks/150ReversePolishNotation/)
+8. [121](./stocks/121BestTimeToBuyAndSellStock/)
+9. [14](./strings/14LongestCommonPrefix/)
+10. [228](./ranges/228SummaryRanges/)
+11. [238](./arraysStrings/238ProductExceptSelf/)
 
 ## Run Tests
 ```sh
@@ -23,10 +24,10 @@ ok  	github.com/sunilgopinath/algomap/arraysStrings/13RomanToInt	(cached)
 ok  	github.com/sunilgopinath/algomap/arraysStrings/14longestCommonPrefix	(cached)
 ok  	github.com/sunilgopinath/algomap/arraysStrings/1768MergeAlternatively	(cached)
 ok  	github.com/sunilgopinath/algomap/arraysStrings/2239ClosestNumber	(cached)
-ok  	github.com/sunilgopinath/algomap/arraysStrings/228summaryRange	0.238s
+ok  	github.com/sunilgopinath/algomap/arraysStrings/228summaryRange	(cached)
+ok  	github.com/sunilgopinath/algomap/arraysStrings/238ProductExceptSelf	0.254s
 ok  	github.com/sunilgopinath/algomap/arraysStrings/392IsSubsequence	(cached)
 ok  	github.com/sunilgopinath/algomap/stacks/150ReversePolishNotation	(cached)
 ok  	github.com/sunilgopinath/algomap/stacks/20Parenthesis	(cached)
 ok  	github.com/sunilgopinath/algomap/stacks/682BaseballGame	(cached)
 ?   	github.com/sunilgopinath/algomap/stacks/739DailyTemperatures	[no test files]
-```
