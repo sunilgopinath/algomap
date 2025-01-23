@@ -3,7 +3,7 @@ package subsequence_test
 import (
 	"testing"
 
-	subsequence "github.com/sunilgopinath/algomap/392IsSubsequence"
+	subsequence "github.com/sunilgopinath/algomap/arraysStrings/392IsSubsequence"
 )
 
 func TestIsSubsequence(t *testing.T) {

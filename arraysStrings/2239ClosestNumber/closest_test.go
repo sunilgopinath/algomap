@@ -3,7 +3,7 @@ package closestnumber_test
 import (
 	"testing"
 
-	closestnumber "github.com/sunilgopinath/algomap/2239ClosestNumber"
+	closestnumber "github.com/sunilgopinath/algomap/arraysStrings/2239ClosestNumber"
 )
 
 func TestFindClosestNumber(t *testing.T) {

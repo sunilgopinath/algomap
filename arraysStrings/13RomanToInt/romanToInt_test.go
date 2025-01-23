@@ -3,7 +3,7 @@ package romantoint_test
 import (
 	"testing"
 
-	romantoint "github.com/sunilgopinath/algomap/13RomanToInt"
+	romantoint "github.com/sunilgopinath/algomap/arraysStrings/13RomanToInt"
 )
 
 func TestRomanToInt(t *testing.T) {

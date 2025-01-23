@@ -3,7 +3,7 @@ package mergealternately_test
 import (
 	"testing"
 
-	mergealternately "github.com/sunilgopinath/algomap/1768MergeAlternatively"
+	mergealternately "github.com/sunilgopinath/algomap/arraysStrings/1768MergeAlternatively"
 )
 
 func TestMergeAlternately(t *testing.T) {
