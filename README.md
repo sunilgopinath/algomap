@@ -15,6 +15,7 @@ Doing algomap.io's 100 leetcode questions
 10. [228](./ranges/228SummaryRanges/)
 11. [238](./arraysStrings/238ProductExceptSelf/)
 12. [56 Merge Intervals](./arraysStrings/56MergeIntervals/)
+13. [83. Remove Duplicates From Sorted List](./linkedLists/83RemoveDuplicates/)
 
 ## Run Tests
 ```sh
@@ -28,7 +29,8 @@ ok  	github.com/sunilgopinath/algomap/arraysStrings/2239ClosestNumber	(cached)
 ok  	github.com/sunilgopinath/algomap/arraysStrings/228summaryRange	(cached)
 ok  	github.com/sunilgopinath/algomap/arraysStrings/238ProductExceptSelf	(cached)
 ok  	github.com/sunilgopinath/algomap/arraysStrings/392IsSubsequence	(cached)
-ok  	github.com/sunilgopinath/algomap/arraysStrings/56MergeIntervals	0.229s
+ok  	github.com/sunilgopinath/algomap/arraysStrings/56MergeIntervals	(cached)
+ok  	github.com/sunilgopinath/algomap/linkedLists/83RemoveDuplicates	0.246s
 ok  	github.com/sunilgopinath/algomap/stacks/150ReversePolishNotation	(cached)
 ok  	github.com/sunilgopinath/algomap/stacks/20Parenthesis	(cached)
 ok  	github.com/sunilgopinath/algomap/stacks/682BaseballGame	(cached)
