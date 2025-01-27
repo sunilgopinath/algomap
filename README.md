@@ -14,7 +14,7 @@ Doing algomap.io's 100 leetcode questions
 9. [14. Longest Common Prefix](./strings/14LongestCommonPrefix/)
 10. [228. Summary Ranges](./ranges/228SummaryRanges/)
 11. [238. Product Except Self](./arraysStrings/238ProductExceptSelf/)
-12. [56 Merge Intervals](./arraysStrings/56MergeIntervals/)
+12. [56. Merge Intervals](./arraysStrings/56MergeIntervals/)
 13. [83. Remove Duplicates From Sorted List](./linkedLists/83RemoveDuplicates/)
 14. [54. Spiral Matrix](./arraysStrings/54SpiralMatrix/)
 15. [48. Rotate Image](./arraysStrings/48RotateImage/)
