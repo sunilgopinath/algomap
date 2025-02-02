@@ -24,6 +24,7 @@ Doing algomap.io's 100 leetcode questions
 19. [242. Valid Anagram](./hashmaps/242ValidAnagram/)
 20. [1189. Maximum Number of Balloons](./hashmaps/1189NumberOfBalloons/)
 21. [1. Two Sum](./hashmaps/1TwoSum/)
+22. [36. Valid Sudoku](./hashmaps/36ValidSudoku/)
 
 ## Run Tests
 ```sh
@@ -41,9 +42,10 @@ ok  	github.com/sunilgopinath/algomap/arraysStrings/48RotateImage	(cached)
 ok  	github.com/sunilgopinath/algomap/arraysStrings/54SpiralMatrix	(cached)
 ok  	github.com/sunilgopinath/algomap/arraysStrings/56MergeIntervals	(cached)
 ok  	github.com/sunilgopinath/algomap/hashmaps/1189NumberOfBalloons	(cached)
-ok  	github.com/sunilgopinath/algomap/hashmaps/1TwoSum	0.229s
+ok  	github.com/sunilgopinath/algomap/hashmaps/1TwoSum	(cached)
 ok  	github.com/sunilgopinath/algomap/hashmaps/217ContainsDuplicates	(cached)
 ok  	github.com/sunilgopinath/algomap/hashmaps/242ValidAnagram	(cached)
+ok  	github.com/sunilgopinath/algomap/hashmaps/36ValidSudoku	0.253s
 ok  	github.com/sunilgopinath/algomap/hashmaps/383RansomNote	(cached)
 ok  	github.com/sunilgopinath/algomap/hashmaps/771JewelsandStones	(cached)
 ok  	github.com/sunilgopinath/algomap/linkedLists/83RemoveDuplicates	(cached)
