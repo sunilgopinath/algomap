@@ -19,6 +19,7 @@ Doing algomap.io's 100 leetcode questions
 14. [54. Spiral Matrix](./arraysStrings/54SpiralMatrix/)
 15. [48. Rotate Image](./arraysStrings/48RotateImage/)
 16. [771. Jewels and Stones](./hashmaps/771JewelsandStones/)
+17. [217. Contains Duplicates](./hashmaps/217ContainsDuplicates/)
 
 ## Run Tests
 ```sh
