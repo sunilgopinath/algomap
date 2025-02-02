@@ -23,29 +23,31 @@ Doing algomap.io's 100 leetcode questions
 18. [383. Ransom Note](./hashmaps/383RansomNote/)
 19. [242. Valid Anagram](./hashmaps/242ValidAnagram/)
 20. [1189. Maximum Number of Balloons](./hashmaps/1189NumberOfBalloons/)
+21. [1. Two Sum](./hashmaps/1TwoSum/)
 
 ## Run Tests
 ```sh
 $> go test ./...
 ?   	github.com/sunilgopinath/algomap	[no test files]
-ok  	github.com/sunilgopinath/algomap/arraysStrings/121BestTimeStock	0.906s
-ok  	github.com/sunilgopinath/algomap/arraysStrings/13RomanToInt	1.405s
-ok  	github.com/sunilgopinath/algomap/arraysStrings/14longestCommonPrefix	0.269s
-ok  	github.com/sunilgopinath/algomap/arraysStrings/1768MergeAlternatively	0.747s
-ok  	github.com/sunilgopinath/algomap/arraysStrings/2239ClosestNumber	1.240s
-ok  	github.com/sunilgopinath/algomap/arraysStrings/228summaryRange	0.574s
-ok  	github.com/sunilgopinath/algomap/arraysStrings/238ProductExceptSelf	0.422s
-ok  	github.com/sunilgopinath/algomap/arraysStrings/392IsSubsequence	1.052s
-ok  	github.com/sunilgopinath/algomap/arraysStrings/48RotateImage	1.229s
-ok  	github.com/sunilgopinath/algomap/arraysStrings/54SpiralMatrix	1.247s
-ok  	github.com/sunilgopinath/algomap/arraysStrings/56MergeIntervals	1.251s
-ok  	github.com/sunilgopinath/algomap/hashmaps/1189NumberOfBalloons	1.269s
-ok  	github.com/sunilgopinath/algomap/hashmaps/217ContainsDuplicates	1.268s
-ok  	github.com/sunilgopinath/algomap/hashmaps/242ValidAnagram	1.272s
-ok  	github.com/sunilgopinath/algomap/hashmaps/383RansomNote	1.261s
-ok  	github.com/sunilgopinath/algomap/hashmaps/771JewelsandStones	1.254s
-ok  	github.com/sunilgopinath/algomap/linkedLists/83RemoveDuplicates	1.231s
-ok  	github.com/sunilgopinath/algomap/stacks/150ReversePolishNotation	1.221s
-ok  	github.com/sunilgopinath/algomap/stacks/20Parenthesis	1.345s
-ok  	github.com/sunilgopinath/algomap/stacks/682BaseballGame	1.358s
+ok  	github.com/sunilgopinath/algomap/arraysStrings/121BestTimeStock	(cached)
+ok  	github.com/sunilgopinath/algomap/arraysStrings/13RomanToInt	(cached)
+ok  	github.com/sunilgopinath/algomap/arraysStrings/14longestCommonPrefix	(cached)
+ok  	github.com/sunilgopinath/algomap/arraysStrings/1768MergeAlternatively	(cached)
+ok  	github.com/sunilgopinath/algomap/arraysStrings/2239ClosestNumber	(cached)
+ok  	github.com/sunilgopinath/algomap/arraysStrings/228summaryRange	(cached)
+ok  	github.com/sunilgopinath/algomap/arraysStrings/238ProductExceptSelf	(cached)
+ok  	github.com/sunilgopinath/algomap/arraysStrings/392IsSubsequence	(cached)
+ok  	github.com/sunilgopinath/algomap/arraysStrings/48RotateImage	(cached)
+ok  	github.com/sunilgopinath/algomap/arraysStrings/54SpiralMatrix	(cached)
+ok  	github.com/sunilgopinath/algomap/arraysStrings/56MergeIntervals	(cached)
+ok  	github.com/sunilgopinath/algomap/hashmaps/1189NumberOfBalloons	(cached)
+ok  	github.com/sunilgopinath/algomap/hashmaps/1TwoSum	0.229s
+ok  	github.com/sunilgopinath/algomap/hashmaps/217ContainsDuplicates	(cached)
+ok  	github.com/sunilgopinath/algomap/hashmaps/242ValidAnagram	(cached)
+ok  	github.com/sunilgopinath/algomap/hashmaps/383RansomNote	(cached)
+ok  	github.com/sunilgopinath/algomap/hashmaps/771JewelsandStones	(cached)
+ok  	github.com/sunilgopinath/algomap/linkedLists/83RemoveDuplicates	(cached)
+ok  	github.com/sunilgopinath/algomap/stacks/150ReversePolishNotation	(cached)
+ok  	github.com/sunilgopinath/algomap/stacks/20Parenthesis	(cached)
+ok  	github.com/sunilgopinath/algomap/stacks/682BaseballGame	(cached)
 ?   	github.com/sunilgopinath/algomap/stacks/739DailyTemperatures	[no test files]
