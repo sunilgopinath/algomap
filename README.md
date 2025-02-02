@@ -27,6 +27,7 @@ Doing algomap.io's 100 leetcode questions
 22. [36. Valid Sudoku](./hashmaps/36ValidSudoku/)
 23. [49. Group Anagrams](./hashmaps/49GroupAnagrams/)
 24. [169. Majority Element](./hashmaps/169MajorityElement/)
+25. [128. Longest Subsequence](./hashmaps/128LongestSubsequence/)
 
 ## Run Tests
 ```sh
@@ -44,13 +45,14 @@ ok  	github.com/sunilgopinath/algomap/arraysStrings/48RotateImage	(cached)
 ok  	github.com/sunilgopinath/algomap/arraysStrings/54SpiralMatrix	(cached)
 ok  	github.com/sunilgopinath/algomap/arraysStrings/56MergeIntervals	(cached)
 ok  	github.com/sunilgopinath/algomap/hashmaps/1189NumberOfBalloons	(cached)
+ok  	github.com/sunilgopinath/algomap/hashmaps/128LongestSubsequence	0.330s
 ok  	github.com/sunilgopinath/algomap/hashmaps/169MajorityElement	(cached)
 ok  	github.com/sunilgopinath/algomap/hashmaps/1TwoSum	(cached)
 ok  	github.com/sunilgopinath/algomap/hashmaps/217ContainsDuplicates	(cached)
 ok  	github.com/sunilgopinath/algomap/hashmaps/242ValidAnagram	(cached)
 ok  	github.com/sunilgopinath/algomap/hashmaps/36ValidSudoku	(cached)
 ok  	github.com/sunilgopinath/algomap/hashmaps/383RansomNote	(cached)
-ok  	github.com/sunilgopinath/algomap/hashmaps/49GroupAnagrams	0.231s
+ok  	github.com/sunilgopinath/algomap/hashmaps/49GroupAnagrams	(cached)
 ok  	github.com/sunilgopinath/algomap/hashmaps/771JewelsandStones	(cached)
 ok  	github.com/sunilgopinath/algomap/linkedLists/83RemoveDuplicates	(cached)
 ok  	github.com/sunilgopinath/algomap/stacks/150ReversePolishNotation	(cached)
@@ -59,9 +61,9 @@ ok  	github.com/sunilgopinath/algomap/stacks/682BaseballGame	(cached)
 ?   	github.com/sunilgopinath/algomap/stacks/739DailyTemperatures	[no test files]
 ```
 
-## Majority Element (Boyer Moore)
+### Majority Element (Boyer Moore)
 
-### Example Walkthrough
+#### Example Walkthrough
 
     - Input: [2, 2, 1, 1, 1, 2, 2]
     - Pick first number: 2 (candidate), count = 1
