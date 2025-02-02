@@ -18,6 +18,7 @@ Doing algomap.io's 100 leetcode questions
 13. [83. Remove Duplicates From Sorted List](./linkedLists/83RemoveDuplicates/)
 14. [54. Spiral Matrix](./arraysStrings/54SpiralMatrix/)
 15. [48. Rotate Image](./arraysStrings/48RotateImage/)
+16. [771. Jewels and Stones](./hashmaps/771JewelsandStones/)
 
 ## Run Tests
 ```sh
