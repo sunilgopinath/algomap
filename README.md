@@ -20,6 +20,7 @@ Doing algomap.io's 100 leetcode questions
 15. [48. Rotate Image](./arraysStrings/48RotateImage/)
 16. [771. Jewels and Stones](./hashmaps/771JewelsandStones/)
 17. [217. Contains Duplicates](./hashmaps/217ContainsDuplicates/)
+18. [383. Ransom Note](./hashmaps/383RansomNote/)
 
 ## Run Tests
 ```sh
