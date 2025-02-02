@@ -45,8 +45,9 @@ ok  	github.com/sunilgopinath/algomap/hashmaps/1189NumberOfBalloons	(cached)
 ok  	github.com/sunilgopinath/algomap/hashmaps/1TwoSum	(cached)
 ok  	github.com/sunilgopinath/algomap/hashmaps/217ContainsDuplicates	(cached)
 ok  	github.com/sunilgopinath/algomap/hashmaps/242ValidAnagram	(cached)
-ok  	github.com/sunilgopinath/algomap/hashmaps/36ValidSudoku	0.253s
+ok  	github.com/sunilgopinath/algomap/hashmaps/36ValidSudoku	(cached)
 ok  	github.com/sunilgopinath/algomap/hashmaps/383RansomNote	(cached)
+ok  	github.com/sunilgopinath/algomap/hashmaps/49GroupAnagrams	0.271s
 ok  	github.com/sunilgopinath/algomap/hashmaps/771JewelsandStones	(cached)
 ok  	github.com/sunilgopinath/algomap/linkedLists/83RemoveDuplicates	(cached)
 ok  	github.com/sunilgopinath/algomap/stacks/150ReversePolishNotation	(cached)
