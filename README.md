@@ -22,6 +22,7 @@ Doing algomap.io's 100 leetcode questions
 17. [217. Contains Duplicates](./hashmaps/217ContainsDuplicates/)
 18. [383. Ransom Note](./hashmaps/383RansomNote/)
 19. [242. Valid Anagram](./hashmaps/242ValidAnagram/)
+20. [1189. Maximum Number of Balloons](./hashmaps/1189NumberOfBalloons/)
 
 ## Run Tests
 ```sh
