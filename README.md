@@ -26,6 +26,7 @@ Doing algomap.io's 100 leetcode questions
 21. [1. Two Sum](./hashmaps/1TwoSum/)
 22. [36. Valid Sudoku](./hashmaps/36ValidSudoku/)
 23. [49. Group Anagrams](./hashmaps/49GroupAnagrams/)
+24. [169. Majority Element](./hashmaps/169MajorityElement/)
 
 ## Run Tests
 ```sh
@@ -43,15 +44,33 @@ ok  	github.com/sunilgopinath/algomap/arraysStrings/48RotateImage	(cached)
 ok  	github.com/sunilgopinath/algomap/arraysStrings/54SpiralMatrix	(cached)
 ok  	github.com/sunilgopinath/algomap/arraysStrings/56MergeIntervals	(cached)
 ok  	github.com/sunilgopinath/algomap/hashmaps/1189NumberOfBalloons	(cached)
+ok  	github.com/sunilgopinath/algomap/hashmaps/169MajorityElement	(cached)
 ok  	github.com/sunilgopinath/algomap/hashmaps/1TwoSum	(cached)
 ok  	github.com/sunilgopinath/algomap/hashmaps/217ContainsDuplicates	(cached)
 ok  	github.com/sunilgopinath/algomap/hashmaps/242ValidAnagram	(cached)
 ok  	github.com/sunilgopinath/algomap/hashmaps/36ValidSudoku	(cached)
 ok  	github.com/sunilgopinath/algomap/hashmaps/383RansomNote	(cached)
-ok  	github.com/sunilgopinath/algomap/hashmaps/49GroupAnagrams	0.271s
+ok  	github.com/sunilgopinath/algomap/hashmaps/49GroupAnagrams	0.231s
 ok  	github.com/sunilgopinath/algomap/hashmaps/771JewelsandStones	(cached)
 ok  	github.com/sunilgopinath/algomap/linkedLists/83RemoveDuplicates	(cached)
 ok  	github.com/sunilgopinath/algomap/stacks/150ReversePolishNotation	(cached)
 ok  	github.com/sunilgopinath/algomap/stacks/20Parenthesis	(cached)
 ok  	github.com/sunilgopinath/algomap/stacks/682BaseballGame	(cached)
 ?   	github.com/sunilgopinath/algomap/stacks/739DailyTemperatures	[no test files]
+```
+
+## Majority Element (Boyer Moore)
+
+### Example Walkthrough
+
+    - Input: [2, 2, 1, 1, 1, 2, 2]
+    - Pick first number: 2 (candidate), count = 1
+    - Next is 2 again: count = 2
+    - Next is 1 (different number): count = 1
+    - Next is 1: count = 0 (reset candidate)
+    - Pick new candidate: 1, count = 1
+    - Next is 2 (different number): count = 0 (reset candidate)
+    - Pick new candidate: 2, count = 1
+    - Next is 2: count = 2
+
+✔ Final Majority Element: 2
