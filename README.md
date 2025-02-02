@@ -21,6 +21,7 @@ Doing algomap.io's 100 leetcode questions
 16. [771. Jewels and Stones](./hashmaps/771JewelsandStones/)
 17. [217. Contains Duplicates](./hashmaps/217ContainsDuplicates/)
 18. [383. Ransom Note](./hashmaps/383RansomNote/)
+19. [242. Valid Anagram](./hashmaps/242ValidAnagram/)
 
 ## Run Tests
 ```sh
