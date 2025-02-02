@@ -25,6 +25,7 @@ Doing algomap.io's 100 leetcode questions
 20. [1189. Maximum Number of Balloons](./hashmaps/1189NumberOfBalloons/)
 21. [1. Two Sum](./hashmaps/1TwoSum/)
 22. [36. Valid Sudoku](./hashmaps/36ValidSudoku/)
+23. [49. Group Anagrams](./hashmaps/49GroupAnagrams/)
 
 ## Run Tests
 ```sh
