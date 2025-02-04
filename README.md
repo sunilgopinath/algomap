@@ -29,38 +29,39 @@ Doing algomap.io's 100 leetcode questions
 24. [169. Majority Element](./hashmaps/169MajorityElement/)
 25. [128. Longest Subsequence](./hashmaps/128LongestSubsequence/)
 26. [977. Squares of Sorted Arrays](./twoPointers/977SquaresOfSortedArrays/)
+27. [344. Reverse String](./twoPointers/344ReverseString/)
 
 ## Run Tests
 ```sh
-$> go test ./...
 ?   	github.com/sunilgopinath/algomap	[no test files]
-ok  	github.com/sunilgopinath/algomap/arraysStrings/121BestTimeStock	0.523s
-ok  	github.com/sunilgopinath/algomap/arraysStrings/13RomanToInt	0.732s
-ok  	github.com/sunilgopinath/algomap/arraysStrings/14longestCommonPrefix	1.265s
-ok  	github.com/sunilgopinath/algomap/arraysStrings/1768MergeAlternatively	1.667s
-ok  	github.com/sunilgopinath/algomap/arraysStrings/2239ClosestNumber	1.478s
-ok  	github.com/sunilgopinath/algomap/arraysStrings/228summaryRange	0.909s
-ok  	github.com/sunilgopinath/algomap/arraysStrings/238ProductExceptSelf	1.099s
-ok  	github.com/sunilgopinath/algomap/arraysStrings/392IsSubsequence	1.804s
-ok  	github.com/sunilgopinath/algomap/arraysStrings/48RotateImage	1.297s
-ok  	github.com/sunilgopinath/algomap/arraysStrings/54SpiralMatrix	1.303s
-ok  	github.com/sunilgopinath/algomap/arraysStrings/56MergeIntervals	1.313s
-ok  	github.com/sunilgopinath/algomap/hashmaps/1189NumberOfBalloons	1.307s
-ok  	github.com/sunilgopinath/algomap/hashmaps/128LongestSubsequence	1.279s
-ok  	github.com/sunilgopinath/algomap/hashmaps/169MajorityElement	1.262s
-ok  	github.com/sunilgopinath/algomap/hashmaps/1TwoSum	1.297s
-ok  	github.com/sunilgopinath/algomap/hashmaps/217ContainsDuplicates	1.197s
-ok  	github.com/sunilgopinath/algomap/hashmaps/242ValidAnagram	1.209s
-ok  	github.com/sunilgopinath/algomap/hashmaps/36ValidSudoku	1.161s
+ok  	github.com/sunilgopinath/algomap/arraysStrings/121BestTimeStock	(cached)
+ok  	github.com/sunilgopinath/algomap/arraysStrings/13RomanToInt	(cached)
+ok  	github.com/sunilgopinath/algomap/arraysStrings/14longestCommonPrefix	(cached)
+ok  	github.com/sunilgopinath/algomap/arraysStrings/1768MergeAlternatively	(cached)
+ok  	github.com/sunilgopinath/algomap/arraysStrings/2239ClosestNumber	(cached)
+ok  	github.com/sunilgopinath/algomap/arraysStrings/228summaryRange	(cached)
+ok  	github.com/sunilgopinath/algomap/arraysStrings/238ProductExceptSelf	(cached)
+ok  	github.com/sunilgopinath/algomap/arraysStrings/392IsSubsequence	(cached)
+ok  	github.com/sunilgopinath/algomap/arraysStrings/48RotateImage	(cached)
+ok  	github.com/sunilgopinath/algomap/arraysStrings/54SpiralMatrix	(cached)
+ok  	github.com/sunilgopinath/algomap/arraysStrings/56MergeIntervals	(cached)
+ok  	github.com/sunilgopinath/algomap/hashmaps/1189NumberOfBalloons	(cached)
+ok  	github.com/sunilgopinath/algomap/hashmaps/128LongestSubsequence	(cached)
+ok  	github.com/sunilgopinath/algomap/hashmaps/169MajorityElement	(cached)
+ok  	github.com/sunilgopinath/algomap/hashmaps/1TwoSum	(cached)
+ok  	github.com/sunilgopinath/algomap/hashmaps/217ContainsDuplicates	(cached)
+ok  	github.com/sunilgopinath/algomap/hashmaps/242ValidAnagram	(cached)
+ok  	github.com/sunilgopinath/algomap/hashmaps/36ValidSudoku	(cached)
+ok  	github.com/sunilgopinath/algomap/hashmaps/383RansomNote	(cached)
+ok  	github.com/sunilgopinath/algomap/hashmaps/49GroupAnagrams	(cached)
+ok  	github.com/sunilgopinath/algomap/hashmaps/771JewelsandStones	(cached)
+ok  	github.com/sunilgopinath/algomap/linkedLists/83RemoveDuplicates	(cached)
+ok  	github.com/sunilgopinath/algomap/stacks/150ReversePolishNotation	(cached)
+ok  	github.com/sunilgopinath/algomap/stacks/20Parenthesis	(cached)
 ?   	github.com/sunilgopinath/algomap/stacks/739DailyTemperatures	[no test files]
-ok  	github.com/sunilgopinath/algomap/hashmaps/383RansomNote	1.207s
-ok  	github.com/sunilgopinath/algomap/hashmaps/49GroupAnagrams	1.110s
-ok  	github.com/sunilgopinath/algomap/hashmaps/771JewelsandStones	1.138s
-ok  	github.com/sunilgopinath/algomap/linkedLists/83RemoveDuplicates	1.142s
-ok  	github.com/sunilgopinath/algomap/stacks/150ReversePolishNotation	1.107s
-ok  	github.com/sunilgopinath/algomap/stacks/20Parenthesis	1.123s
-ok  	github.com/sunilgopinath/algomap/stacks/682BaseballGame	1.123s
-ok  	github.com/sunilgopinath/algomap/twoPointers/977SquaresOfSortedArrays	1.159s
+ok  	github.com/sunilgopinath/algomap/stacks/682BaseballGame	(cached)
+ok  	github.com/sunilgopinath/algomap/twoPointers/344ReverseString	0.509s
+ok  	github.com/sunilgopinath/algomap/twoPointers/977SquaresOfSortedArrays	(cached)
 ```
 
 ### Majority Element (Boyer Moore)
