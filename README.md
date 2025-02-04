@@ -30,6 +30,7 @@ Doing algomap.io's 100 leetcode questions
 25. [128. Longest Subsequence](./hashmaps/128LongestSubsequence/)
 26. [977. Squares of Sorted Arrays](./twoPointers/977SquaresOfSortedArrays/)
 27. [344. Reverse String](./twoPointers/344ReverseString/)
+28. [167. Two Sum II](./twoPointers/167TwoSumII/)
 
 ## Run Tests
 ```sh
@@ -60,7 +61,8 @@ ok  	github.com/sunilgopinath/algomap/stacks/150ReversePolishNotation	(cached)
 ok  	github.com/sunilgopinath/algomap/stacks/20Parenthesis	(cached)
 ?   	github.com/sunilgopinath/algomap/stacks/739DailyTemperatures	[no test files]
 ok  	github.com/sunilgopinath/algomap/stacks/682BaseballGame	(cached)
-ok  	github.com/sunilgopinath/algomap/twoPointers/344ReverseString	0.509s
+ok  	github.com/sunilgopinath/algomap/twoPointers/167TwoSumII	0.513s
+ok  	github.com/sunilgopinath/algomap/twoPointers/344ReverseString	(cached)
 ok  	github.com/sunilgopinath/algomap/twoPointers/977SquaresOfSortedArrays	(cached)
 ```
 
