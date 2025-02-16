@@ -59,10 +59,11 @@ ok  	github.com/sunilgopinath/algomap/hashmaps/49GroupAnagrams	(cached)
 ok  	github.com/sunilgopinath/algomap/hashmaps/771JewelsandStones	(cached)
 ok  	github.com/sunilgopinath/algomap/linkedLists/83RemoveDuplicates	(cached)
 ok  	github.com/sunilgopinath/algomap/stacks/150ReversePolishNotation	(cached)
-ok  	github.com/sunilgopinath/algomap/stacks/20Parenthesis	(cached)
 ?   	github.com/sunilgopinath/algomap/stacks/739DailyTemperatures	[no test files]
+ok  	github.com/sunilgopinath/algomap/stacks/155MinStack	0.684s
+ok  	github.com/sunilgopinath/algomap/stacks/20Parenthesis	(cached)
 ok  	github.com/sunilgopinath/algomap/stacks/682BaseballGame	(cached)
-ok  	github.com/sunilgopinath/algomap/twoPointers/125ValidPalindrome	0.513s
+ok  	github.com/sunilgopinath/algomap/twoPointers/125ValidPalindrome	(cached)
 ok  	github.com/sunilgopinath/algomap/twoPointers/167TwoSumII	(cached)
 ok  	github.com/sunilgopinath/algomap/twoPointers/344ReverseString	(cached)
 ok  	github.com/sunilgopinath/algomap/twoPointers/977SquaresOfSortedArrays	(cached)
